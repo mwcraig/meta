@@ -274,3 +274,7 @@
   website: https://lhqing.github.io/ALLCools/intro.html
   repository: https://github.com/lhqing/ALLCools
   image: https://raw.githubusercontent.com/lhqing/ALLCools/master/docs/allcools/img/allcools_logo_large.png
+- name: "CCD Data Reduction Guide"
+  website: http://www.astropy.org/ccd-reduction-and-photometry-guide
+  repository: https://github.com/astropy/ccd-reduction-and-photometry-guide
+  image: https://raw.githubusercontent.com/astropy/ccd-reduction-and-photometry-guide/main/book_media/images/logo/logo.png
